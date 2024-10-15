@@ -26,14 +26,7 @@ Technologies Used
 - DAO Pattern: Provides a structured way to interact with the data source.
 - JDBC : It can handle database connectivity and store data permanently
 
-
 Prerequisites
 - JDK 8 or higher installed on your machine.
 - IDE: IntelliJ IDEA, Eclipse, or any Java-supported IDE.
 - Basic understanding of Java and object-oriented programming.
-
-
-License
-This project is licensed under the MIT License.
-
----
